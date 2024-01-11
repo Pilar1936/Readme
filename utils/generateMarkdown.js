@@ -71,6 +71,8 @@ ${answers.contributing}
 ## Tests
 ${answers.tests}
 
+## Video
+${answers.video}
 
 ## Questions
 For any questions, please contact [${answers.username}](https://github.com/${answers.username}) via GitHub or email at ${answers.email}.

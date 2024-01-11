@@ -51,6 +51,11 @@ const questions = [
     name: 'email',
   },
   {
+    type: 'input',
+    message: 'video link:',
+    name: 'video',
+  },
+  {
     type: 'confirm',
     name: 'confirmTable',
     message: 'Do you want a Table of Contents?',
